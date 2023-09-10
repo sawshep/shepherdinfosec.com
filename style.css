@@ -2,3 +2,7 @@ body {
     font-family: "Times New Roman", Times, serif;
     background-color: #fefefe;
 }
+
+h1 {
+    text-align: center;
+}
